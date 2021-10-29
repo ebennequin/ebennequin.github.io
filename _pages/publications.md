@@ -16,5 +16,5 @@ author_profile: true
 - [Meta-learning algorithms for few-shot computer vision](https://arxiv.org/pdf/1909.13579.pdf).
 Etienne Bennequin. Internship Report. 2019.
   
-- [https://arxiv.org/pdf/1911.05438](https://arxiv.org/pdf/1911.05438). Salah Zaïem and Etienne Bennequin.
+- [Learning to Communicate in Multi-Agent Reinforcement Learning : A Review](https://arxiv.org/pdf/1911.05438). Salah Zaïem and Etienne Bennequin.
 Student Review. 2019.

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Etienne Bennequin"
+title: "Hi, I'm Etienne Bennequin"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -19,3 +19,14 @@ My thesis is expertly and kindly supervised by Céline Hudelot and Myriam Tami (
 and Antoine Toubhans (Sicara).
 
 This site is still a work in progress.
+
+## News
+
+### October 29th, 2021
+I created this very website that you are reading right now.
+
+
+### October 25th, 2021
+I launched with Sicara the video series [*PhD*](https://www.youtube.com/watch?v=-3gPJFFd1yI&ab_channel=Sicara). 
+I will share twice a month what I learn in my day-to-day as a PhD candidate.
+It's in French.
