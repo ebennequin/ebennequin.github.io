@@ -5,12 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Peer-reviewed publications
 
-{% include base_path %}
+- [Bridging Few-Shot Learning and Adaptation: New Challenges of Support-Query Shift](https://arxiv.org/pdf/2105.11804.pdf). Etienne Bennequin, Victor Bouvier, Myriam Tami, Antoine Toubhans and Céline Hudelot. ECML-PKDD 2021.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Just sharing 
+
+![honest work meme](https://ebennequin.github.io/images/its-honest-work.gif)
+
+- [Meta-learning algorithms for few-shot computer vision](https://arxiv.org/pdf/1909.13579.pdf).
+Etienne Bennequin. Internship Report. 2019.
+  
+- [https://arxiv.org/pdf/1911.05438](https://arxiv.org/pdf/1911.05438). Salah Zaïem and Etienne Bennequin.
+Student Review. 2019.
