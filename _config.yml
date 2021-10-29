@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Etienne Bennequin"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Etienne Bennequin"
 description              : &description "Ph.D student with CentraleSupélec and Sicara."
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpeg"
   bio              : "Ph.D student working on real life Few-Shot Learning."
   location         : "Paris"
-  employer         : "Sicara"
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=a8e5iNgAAAAJ&hl=fr"
   email            :

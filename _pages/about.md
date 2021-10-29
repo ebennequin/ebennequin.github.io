@@ -12,13 +12,13 @@ I am a Ph.D candidate with [Sicara](https://www.sicara.ai/) and CentraleSupélec
 I am working on Few-Shot Image Classification, with a special interest in bridging the gap between
 the classical formulation of the few-shot problem and real life use cases.
 
-I love sharing my work in any way I can. On this site you will find all my publications, 
-along with blog posts, videos, and open-source contributions.
-
 My thesis is expertly and kindly supervised by Céline Hudelot and Myriam Tami (MICS, CentraleSupélec),
 and Antoine Toubhans (Sicara).
 
-This site is still a work in progress.
+I love sharing my work in any way I can. On this site you will find [all my publications](https://ebennequin.github.io/publications/), 
+along with blog posts, [videos](https://ebennequin.github.io/videos/), 
+and my contribution to open-source: [EasyFSL](https://ebennequin.github.io/videos/).
+
 
 ## News
 
@@ -30,3 +30,9 @@ I created this very website that you are reading right now.
 I launched with Sicara the video series [*PhD*](https://www.youtube.com/watch?v=-3gPJFFd1yI&ab_channel=Sicara). 
 I will share twice a month what I learn in my day-to-day as a PhD candidate.
 It's in French.
+
+### In between
+A lot of great stuff happened but I didn't have my website yet.
+
+### October 1st, 2020
+I started my thesis!
