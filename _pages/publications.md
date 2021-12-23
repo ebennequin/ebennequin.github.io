@@ -18,3 +18,11 @@ Etienne Bennequin. Internship Report. 2019.
   
 - [Learning to Communicate in Multi-Agent Reinforcement Learning : A Review](https://arxiv.org/pdf/1911.05438). Salah Zaïem and Etienne Bennequin.
 Student Review. 2019.
+
+## Blog posts
+
+- [Few-Shot Image Classification with Meta-Learning](https://www.sicara.ai/blog/2019-07-30-image-classification-few-shot-meta-learning)
+
+- [3 Reasons Why We Are Far From Achieving Artificial General Intelligence](https://www.sicara.ai/blog/artificial-general-intelligence)
+
+- [Your Own Few-Shot Classification Model Ready in 15mn with PyTorch](https://www.sicara.ai/blog/your-few-shot-model-15mn-pytorch)
