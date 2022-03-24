@@ -12,3 +12,5 @@ It's called EasyFSL and it's meant to make Few-Shot Learning easy. Go play with 
 You can also just install it with PyPi: `pip install easyfsl` and it's done.
 
 Also find a tutorial based on EasyFSL's code [here](https://www.sicara.ai/blog/your-few-shot-model-15mn-pytorch).
+
+![easyfsl](../resources/images/easyfsl.png)

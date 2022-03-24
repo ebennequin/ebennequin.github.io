@@ -17,10 +17,13 @@ and Antoine Toubhans (Sicara).
 
 I love sharing my work in any way I can. On this site you will find [all my publications](https://ebennequin.github.io/publications/), 
 along with blog posts, [videos](https://ebennequin.github.io/videos/), 
-and my contribution to open-source: [EasyFSL](https://ebennequin.github.io/videos/).
+and my contribution to open-source: [EasyFSL](https://ebennequin.github.io/easyfsl/).
 
 
 ## News
+
+### March 22nd, 2021
+I launched the first major update of EasyFSL: [v1.0](https://github.com/sicara/easy-few-shot-learning/releases/tag/v1.0.0).
 
 ### October 29th, 2021
 I created this very website that you are reading right now.
