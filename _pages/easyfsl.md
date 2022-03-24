@@ -13,4 +13,4 @@ You can also just install it with PyPi: `pip install easyfsl` and it's done.
 
 Also find a tutorial based on EasyFSL's code [here](https://www.sicara.ai/blog/your-few-shot-model-15mn-pytorch).
 
-![easyfsl](https://ebennequin.github.io/resources/images/easyfsl.png)
+<img src="https://ebennequin.github.io/resources/images/easyfsl.png" alt="easyfsl" width="300"/>
