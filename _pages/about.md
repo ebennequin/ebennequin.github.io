@@ -22,4 +22,4 @@ and my contribution to open-source: [EasyFSL](https://ebennequin.github.io/easyf
 
 ## Feed
 
-<a class="twitter-timeline" data-theme="light" href="https://twitter.com/EBennequin?ref_src=twsrc%5Etfw">Tweets by EBennequin</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="500" data-theme="light" href="https://twitter.com/EBennequin?ref_src=twsrc%5Etfw">Tweets by EBennequin</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
