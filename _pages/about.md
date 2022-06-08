@@ -20,6 +20,5 @@ along with blog posts, [videos](https://ebennequin.github.io/videos/),
 and my contribution to open-source: [EasyFSL](https://ebennequin.github.io/easyfsl/).
 
 
-## Feed
-
+<a href="https://twitter.com/EBennequin?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @EBennequin</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a class="twitter-timeline" data-width="500" data-theme="light" href="https://twitter.com/EBennequin?ref_src=twsrc%5Etfw">Tweets by EBennequin</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
