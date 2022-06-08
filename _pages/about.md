@@ -20,22 +20,6 @@ along with blog posts, [videos](https://ebennequin.github.io/videos/),
 and my contribution to open-source: [EasyFSL](https://ebennequin.github.io/easyfsl/).
 
 
-## News
+## Feed
 
-### March 22nd, 2021
-I launched the first major update of EasyFSL: [v1.0](https://github.com/sicara/easy-few-shot-learning/releases/tag/v1.0.0).
-
-### October 29th, 2021
-I created this very website that you are reading right now.
-
-
-### October 25th, 2021
-I launched with Sicara the video series [*PhD*](https://www.youtube.com/watch?v=-3gPJFFd1yI&ab_channel=Sicara). 
-I will share twice a month what I learn in my day-to-day as a PhD candidate.
-It's in French.
-
-### In between
-A lot of great stuff happened but I didn't have my website yet.
-
-### October 1st, 2020
-I started my thesis!
+<a class="twitter-timeline" data-theme="light" href="https://twitter.com/EBennequin?ref_src=twsrc%5Etfw">Tweets by EBennequin</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
