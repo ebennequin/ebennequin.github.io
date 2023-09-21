@@ -17,7 +17,6 @@ I love sharing my work in any way I can. On this site you will find [all my publ
 along with blog posts, [videos](https://ebennequin.github.io/videos/), 
 and my contribution to open-source: [EasyFSL](https://ebennequin.github.io/easyfsl/).
 
-<div style="display:flex; align-items:flex-start">
-<a class="twitter-timeline" data-width="500" data-theme="light" href="https://twitter.com/EBennequin?ref_src=twsrc%5Etfw">Tweets by EBennequin</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a href="https://twitter.com/EBennequin?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @EBennequin</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div>
+<a class="twitter-timeline" data-width="700" data-theme="light" href="https://twitter.com/EBennequin?ref_src=twsrc%5Etfw">Tweets by EBennequin</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
