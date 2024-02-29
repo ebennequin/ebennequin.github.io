@@ -11,7 +11,7 @@ redirect_from:
 I completed a PhD with [Sicara](https://www.sicara.ai/) and CentraleSupélec on Few-Shot Image Classification, 
 with a special interest in bridging the gap between the classical formulation of the few-shot problem and 
 real life use cases.
-Check out the video of my [Ph.D. defense](https://www.youtube.com/watch?v=TC3AyeStBXs)(in French) from Sep. 19, 2023.
+Check out the video of my [Ph.D. defense](https://www.youtube.com/watch?v=TC3AyeStBXs) (in French) from Sep. 19, 2023.
 
 I love sharing my work in any way I can. On this site you will find [all my publications](https://ebennequin.github.io/publications/), 
 along with blog posts, [videos](https://ebennequin.github.io/videos/), 
